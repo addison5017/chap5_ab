@@ -1,1 +1,13 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="-RvzNroFt:L2em]!!05]" x="20" y="20"></block><block type="device_forever" id="93)Nju3Do2=XW[mkm_=4" x="225" y="20"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="-RvzNroFt:L2em]!!05]" x="0" y="0"></block><block type="device_forever" id="93)Nju3Do2=XW[mkm_=4" x="1" y="126"><statement name="HANDLER"><block type="controls_if" id="~?.G/:TQeHgZ~TBn%R@B"><mutation elseif="2"></mutation><value name="IF0"><shadow type="logic_boolean" id="3hD9MtXgr))%:MRA{5#J"><field name="BOOL">TRUE</field></shadow><block type="device_get_button2" id="Lszn`^]!=fFo*rh-IC{C"><field name="NAME">Button.AB</field></block></value><statement name="DO0"><block type="basic_show_icon" id="o!BDP(8.[pD@yk=MI5TU"><field name="i">IconNames.Heart</field><next><block type="device_pause" id="xCMU+3Y]Awb2vvp=Wd06"><value name="pause"><shadow type="timePicker" id="+lC3uPUuy7{6~-_Pj.-K"><field name="ms">1000</field></shadow></value></block></next></block></statement><value name="IF1"><block type="device_get_button2" id="H3ZB~tsX8GkB[#=)`h|O"><field name="NAME">Button.A</field></block></value><statement name="DO1"><block type="device_show_leds" id="jh0u(j7J{cxKDlHVe*8-"><field name="LEDS">`
+        . . # . . 
+        . # . . . 
+        # # # # # 
+        . # . . . 
+        . . # . .
+        `</field><next><block type="device_pause" id="nYH5^t]}0LQjiGZ_PacH"><value name="pause"><shadow type="timePicker" id="+~l6vK}~FZTP9D]RV})S"><field name="ms">1000</field></shadow></value></block></next></block></statement><value name="IF2"><block type="device_get_button2" id="}_t#e=!v=X7!#mP,,`LB"><field name="NAME">Button.B</field></block></value><statement name="DO2"><block type="device_show_leds" id="tD3^oB$L6ncQVkgG]iVQ"><field name="LEDS">`
+        . . # . . 
+        . . . # . 
+        # # # # # 
+        . . . # . 
+        . . # . .
+        `</field><next><block type="device_pause" id="k%h?nfJRb%znLWJtB`x_"><value name="pause"><shadow type="timePicker" id="F+r@R*|v)3BF|Rln0Prw"><field name="ms">1000</field></shadow></value></block></next></block></statement></block></statement></block></xml>
